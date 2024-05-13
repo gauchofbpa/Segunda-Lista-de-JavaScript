@@ -1,2 +1,2 @@
 # Segunda-Lista-de-JavaScript
-2ª Lista de JavaScript, com exercícios usando estrutura de repetição e mais.
+2ª Lista de JavaScript com dois exercícios usando fundamentos da calculadora da aula passada.
